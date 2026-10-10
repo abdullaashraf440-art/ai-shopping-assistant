@@ -1,0 +1,9 @@
+services:
+  shop:
+    build: .
+    ports: ["8501:8501"]
+    env_file: .env
+    volumes: ["shop-data:/data"]
+    restart: unless-stopped
+volumes:
+  shop-data:

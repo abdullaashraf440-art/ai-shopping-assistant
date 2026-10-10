@@ -1,0 +1,8 @@
+streamlit>=1.50
+langchain>=1.0
+langchain-core
+langchain-groq
+python-dotenv
+pandas>=2.0
+openpyxl>=3.1
+pillow

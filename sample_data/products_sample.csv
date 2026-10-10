@@ -1,0 +1,7 @@
+SKU,Product Name,Manufacturer,Department,Cost,Organic,About
+,Dark Chocolate 85%,Cocoa Co,chocolate,4.99,no,Intense dark chocolate bar
+,Organic Maple Syrup,Northwoods,syrup,13.49,yes,Grade A dark maple syrup
+,Sourdough Loaf,Hearth & Co,bakery,"$5,25",no,Slow-fermented country sourdough
+,Organic Dried Apricots,Sunrise Farms,fruit,6.80,,Unsulphured soft apricots
+,Almond Butter,Nut House,spreads,9.95,no,Creamy roasted almond butter
+,Free Sample,Nobody,misc,abc,no,This row has a bad price and will be reported

@@ -1,0 +1,17 @@
+[theme]
+primaryColor = "#16a34a"
+font = "sans serif"
+baseRadius = "0.75rem"
+
+[server]
+headless = true
+maxUploadSize = 200          # MB, for catalog imports
+enableXsrfProtection = true
+runOnSave = false
+
+[client]
+toolbarMode = "minimal"      # hides the developer menu for end users
+showErrorDetails = "none"    # no stack traces in the deployed UI
+
+[browser]
+gatherUsageStats = false
